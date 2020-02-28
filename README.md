@@ -11,8 +11,7 @@ Java Spring Boot application from scratch to track reported data of confirmed Co
 >Data validity depends on the source
 
 To run the application
-[Click here](gitpod.io/#https://github.com/OmkarShivadekar/corona-virus-tracker) and fire the following command in the terminal
-`mvn spring-boot:run` and click open in browser
+[Click here](gitpod.io/#https://github.com/OmkarShivadekar/corona-virus-tracker) then fire the `mvn spring-boot:run` command in the terminal and click open in browser
 
 
 
